@@ -1,0 +1,14 @@
+<div class="slide-content">
+                        <h1 class="movie-title">Loki</h1>
+                        <p class="movie-des">loren insum dolar sum</p>
+
+                    </div>
+
+                    .slider-content{
+                        position:absolute;
+                        width: 50px;
+                        height: 100%;
+                        z-index: 2;
+                        background: linear-gradient(to right,#030b17,#0c111b);
+                        color:#fff;
+                    
